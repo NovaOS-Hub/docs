@@ -1,6 +1,6 @@
 ---
-title: "Getting Started"
+title: "The NovaOS Networking Libraries"
 eleventyNavigation:
-  key: Getting Started
+  key: Networking
   order: 1
 ---

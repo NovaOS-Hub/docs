@@ -1,13 +1,11 @@
 {
-  "authorEmail": "hello@conedevelopment.com",
-  "authorName": "Cone",
-  "copyright": "Some rights reserved.",
-  "name": "Spruce CSS Eleventy Documentation Template",
-  "slogen": "An Eleventy theme for documentation sites",
+  "authorEmail": "os@novafurry.win",
+  "authorName": "NovaOS Team (just Novafurry)",
+  "copyright": "No fucks given.",
+  "name": "NovaOS Documentation",
+  "slogen": "The NovaOS Documentation",
   "social": {
-    "twitter": "https://twitter.com/conedevelopment",
-    "github": "https://github.com/conedevelopment/sprucecss-eleventy-documentation-template",
-    "discord": ""
+    "github": "https://github.com/NovaOS-Hub"
   },
-  "url": "https://eleventy-documentation.sprucecss.com"
+  "url": "https://docs.os.novafurry.win"
 }

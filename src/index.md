@@ -1,6 +1,6 @@
 ---
-title: "Document your next project a little bit better."
-headline: "Eleventy / Spruce CSS"
+title: "Documentation"
+headline: "NovaOS"
 btns:
 -
     caption: "Introduction"
@@ -10,7 +10,7 @@ btns:
     caption: "Changelog"
     url: "/changelog/"
     type: "outline"
-summary: "Do you work on a project that requires a documentation? This theme is for you. It's a simple, clean and responsive theme for Eleventy."
+summary: "hi hello hi this documentation is still under working"
 displaySummary: true
 layout: "layouts/front-page.html"
 overview:
